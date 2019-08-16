@@ -1,0 +1,11 @@
+C:\codegym\modul 2\baitap\baitap\bin\Debug\netcoreapp2.1\baitap.deps.json
+C:\codegym\modul 2\baitap\baitap\bin\Debug\netcoreapp2.1\baitap.runtimeconfig.json
+C:\codegym\modul 2\baitap\baitap\bin\Debug\netcoreapp2.1\baitap.runtimeconfig.dev.json
+C:\codegym\modul 2\baitap\baitap\bin\Debug\netcoreapp2.1\baitap.dll
+C:\codegym\modul 2\baitap\baitap\bin\Debug\netcoreapp2.1\baitap.pdb
+C:\codegym\modul 2\baitap\baitap\obj\Debug\netcoreapp2.1\baitap.csproj.CoreCompileInputs.cache
+C:\codegym\modul 2\baitap\baitap\obj\Debug\netcoreapp2.1\baitap.AssemblyInfoInputs.cache
+C:\codegym\modul 2\baitap\baitap\obj\Debug\netcoreapp2.1\baitap.AssemblyInfo.cs
+C:\codegym\modul 2\baitap\baitap\obj\Debug\netcoreapp2.1\baitap.dll
+C:\codegym\modul 2\baitap\baitap\obj\Debug\netcoreapp2.1\baitap.pdb
+C:\codegym\modul 2\baitap\baitap\obj\Debug\netcoreapp2.1\baitap.csprojAssemblyReference.cache
