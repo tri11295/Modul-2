@@ -1,0 +1,17 @@
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\bin\Debug\netcoreapp2.1\MSTest.deps.json
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\bin\Debug\netcoreapp2.1\MSTest.runtimeconfig.json
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\bin\Debug\netcoreapp2.1\MSTest.runtimeconfig.dev.json
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\bin\Debug\netcoreapp2.1\MSTest.dll
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\bin\Debug\netcoreapp2.1\MSTest.pdb
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\bin\Debug\netcoreapp2.1\UnitTest.dll
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\bin\Debug\netcoreapp2.1\UnitTest.pdb
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\obj\Debug\netcoreapp2.1\MSTest.csprojAssemblyReference.cache
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\obj\Debug\netcoreapp2.1\MSTest.csproj.CoreCompileInputs.cache
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\obj\Debug\netcoreapp2.1\MSTest.AssemblyInfoInputs.cache
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\obj\Debug\netcoreapp2.1\MSTest.AssemblyInfo.cs
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\obj\Debug\netcoreapp2.1\MSTest.csproj.CopyComplete
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\obj\Debug\netcoreapp2.1\MSTest.dll
+C:\codegym\modul 2\baitap\Modul-2\UnitTest\MSTest\obj\Debug\netcoreapp2.1\MSTest.pdb
