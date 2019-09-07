@@ -14,6 +14,8 @@ namespace OOP
             {
                 age = n;
             }
+           
+
             public virtual void Greeting()
             {
                 Console.WriteLine(" Person Hello");

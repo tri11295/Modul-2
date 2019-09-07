@@ -24,6 +24,12 @@ namespace OOP.test
             Console.WriteLine(string.Join(",", MyArray));
             Console.WriteLine("------------------");
 
+            int left = 0;
+            int right = MyArray.Length - 1;
+            QuickSort(MyArray, left, right);
+            Console.WriteLine(string.Join(",", MyArray));
+            Console.WriteLine("------------------");
+
             Console.WriteLine("Index of value equals 9 = {0}", LinearSearch(MyArray, 9));
             Console.WriteLine("------------------");
 
@@ -89,9 +95,34 @@ namespace OOP.test
             b = temp;
         }
 
-        public static void QuickSort()
+        public static void QuickSort(int[] A, int left, int right)
         {
+            int middle = left + (right - left) / 2;
+            int pivot = A[middle];
+            int i = left;
+            int j = right;
 
+            while (i <= j)
+            {
+                while (A[i] < pivot)
+                {
+                    i++;
+                }
+                while (A[j] > pivot)
+                {
+                    j--;
+                }
+                if (i <= j)
+                {
+                    swap(ref A[i], ref A[j]);
+                    i++;
+                    j--;
+                }
+            }
+            if (left < j)
+                QuickSort(A, left, j);
+            if (right > i)
+                QuickSort(A, i, right);
         }
 
         public static int LinearSearch(int[] Array,int value)

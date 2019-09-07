@@ -9,3 +9,14 @@ C:\Users\User\source\repos\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.AssemblyInfoInput
 C:\Users\User\source\repos\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.AssemblyInfo.cs
 C:\Users\User\source\repos\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.dll
 C:\Users\User\source\repos\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.pdb
+D:\codegym\modul 2\baitap\Modul-2\OOP\OOP\bin\Debug\netcoreapp2.1\OOP.deps.json
+D:\codegym\modul 2\baitap\Modul-2\OOP\OOP\bin\Debug\netcoreapp2.1\OOP.runtimeconfig.json
+D:\codegym\modul 2\baitap\Modul-2\OOP\OOP\bin\Debug\netcoreapp2.1\OOP.runtimeconfig.dev.json
+D:\codegym\modul 2\baitap\Modul-2\OOP\OOP\bin\Debug\netcoreapp2.1\OOP.dll
+D:\codegym\modul 2\baitap\Modul-2\OOP\OOP\bin\Debug\netcoreapp2.1\OOP.pdb
+D:\codegym\modul 2\baitap\Modul-2\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.csprojAssemblyReference.cache
+D:\codegym\modul 2\baitap\Modul-2\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.csproj.CoreCompileInputs.cache
+D:\codegym\modul 2\baitap\Modul-2\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.AssemblyInfoInputs.cache
+D:\codegym\modul 2\baitap\Modul-2\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.AssemblyInfo.cs
+D:\codegym\modul 2\baitap\Modul-2\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.dll
+D:\codegym\modul 2\baitap\Modul-2\OOP\OOP\obj\Debug\netcoreapp2.1\OOP.pdb

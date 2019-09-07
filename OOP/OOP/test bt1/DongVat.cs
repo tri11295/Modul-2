@@ -3,23 +3,28 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace OOP.test_bt1
-{
-    class DongVat
+{   
+    public abstract class DongVat
     {
         private string name;
         private string colorCoat;
         private int leg;
 
         public string Name { get => name; set => name = value; }
-        private string ColorCoat { get => colorCoat; set => colorCoat = value; }
-        private int Leg { get => leg; set => leg = value; }
+        public string ColorCoat { get => colorCoat; set => colorCoat = value; }
+        public int Leg { get => leg; set => leg = value; }
 
-        public void landAnimal(string name, string colorCoat, int leg)
+        public DongVat()
         {
-            name = Name;
-            colorCoat = ColorCoat;
-            leg = Leg;
+
         }
+
+        public DongVat(string Name,string ColorCoat,int Leg)
+        {
+
+        }
+
+        public abstract void BietBay();
 
     }
 }

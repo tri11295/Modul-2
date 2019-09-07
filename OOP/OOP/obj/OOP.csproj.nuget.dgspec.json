@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\OOP\\OOP\\OOP.csproj": {}
+    "D:\\codegym\\modul 2\\baitap\\Modul-2\\OOP\\OOP\\OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\OOP\\OOP\\OOP.csproj": {
+    "D:\\codegym\\modul 2\\baitap\\Modul-2\\OOP\\OOP\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\OOP\\OOP\\OOP.csproj",
+        "projectUniqueName": "D:\\codegym\\modul 2\\baitap\\Modul-2\\OOP\\OOP\\OOP.csproj",
         "projectName": "OOP",
-        "projectPath": "C:\\Users\\User\\source\\repos\\OOP\\OOP\\OOP.csproj",
+        "projectPath": "D:\\codegym\\modul 2\\baitap\\Modul-2\\OOP\\OOP\\OOP.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\OOP\\OOP\\obj\\",
+        "outputPath": "D:\\codegym\\modul 2\\baitap\\Modul-2\\OOP\\OOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

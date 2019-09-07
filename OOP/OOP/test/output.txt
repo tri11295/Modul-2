@@ -1,0 +1,3 @@
+Tổng các số là 218
+Các số chẵn là : 2 4 8 96 
+Dãy số theo thứ tự tăng dần : 2 4 8 45 63 96 
