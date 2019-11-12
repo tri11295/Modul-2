@@ -1,0 +1,64 @@
+﻿@model QLPhongBan.Models.NhanVien.NhanVienCreateView
+@using QLPhongBan.Models.NhanVien;
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var PhongBans = new List<PhongBanItem>();
+    PhongBans = ViewBag.PhongBans;
+    int PhongBanID = ViewBag.PhongBanID;
+}
+
+<h4></h4>
+<div>
+    <a class="btn-primary" asp-controller="NhanVien" asp-action="NhanVien" asp-route-id="@PhongBanID">DanhSachNhanVien</a>
+</div>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @if (TempData["Success"] != null)
+            {
+                <p class="alert alert-success">@TempData["Success"]</p>
+            }
+            <div class="row">
+                <div class="col-md-6 ">
+                    <div class="form-group">
+                        <label asp-for="IDPB" class="control-label"></label>
+                        <select asp-for="IDPB" class="form-control">
+                            @foreach (var pb in PhongBans)
+                            {
+                                <option value="@pb.ID">@pb.TenPB</option>
+                            }
+                        </select>
+                        <span asp-validation-for="IDPB" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="HoTen" class="control-label"></label>
+                        <input asp-for="HoTen" class="form-control" />
+                        <span asp-validation-for="HoTen" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6 ">
+                    <div class="form-group">
+                        <label asp-for="SoDienThoai" class="control-label"></label>
+                        <input asp-for="SoDienThoai" class="form-control" />
+                        <span asp-validation-for="SoDienThoai" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Tạo Nhân Viên" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-controller="NhanVien" asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

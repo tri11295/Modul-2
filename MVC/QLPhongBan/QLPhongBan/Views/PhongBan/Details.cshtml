@@ -1,0 +1,42 @@
+﻿@model QLPhongBan.Models.PhongBan.PhongBanView
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PhongBanView</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.MaPB)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MaPB)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.TenPB)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TenPB)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.SoLuongNV)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SoLuongNV)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new {  id = Model.ID }) |
+    <a asp-action="Index">Back to List</a>
+</div>

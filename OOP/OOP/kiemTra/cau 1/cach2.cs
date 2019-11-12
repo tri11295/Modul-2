@@ -9,12 +9,15 @@ namespace OOP.kiemTra.cau_1
         static int n;
         static int m;
         static int[][] Array;
+        static int temp;
         public static void Main()
         {
             InitMenu();
             /* ShowMaxRow();*/
             /* Console.WriteLine("tong cac so chan {0}", TongCacSoChan(Array));*/
-            XoaHang(Array);
+            /* XoaHang(Array);*/
+            /*XoaCot(Array);*/
+            DoiCho2Hang(Array);
         }
 
         public static void InitMenu()
@@ -84,9 +87,9 @@ namespace OOP.kiemTra.cau_1
         } 
         public static void XoaHang(int[][] Array)
         {
-            Console.WriteLine("Input k");
-            int k = int.Parse(Console.ReadLine());
-            if(k < Array.Length)
+            Console.WriteLine("Input row you want delete");
+            int k = int.Parse(Console.ReadLine()) - 1;
+            if(k <= Array.Length)
             {
                 for (int i = k; i < n - 1; i++)
                 {
@@ -97,7 +100,7 @@ namespace OOP.kiemTra.cau_1
                 }
                 n--;
             }
-            Console.WriteLine("Array is : ");
+            Console.WriteLine("Array after delete row {0} : ",k - 1);
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < m; j++)
@@ -109,7 +112,51 @@ namespace OOP.kiemTra.cau_1
         }
         public static void XoaCot(int[][] Array)
         {
+            Console.WriteLine("Input colum you want delete :");
+            int c = int.Parse(Console.ReadLine()) - 1;
+            if(c <= m)
+            {
+                for (int i = 0; i < n; i++)
+                {
+                    for (int j = c; j < m - 1; j++)
+                    {
+                        Array[i][j] = Array[i][j + 1];
+                    }
+                }
+                m--;
+            }
+            Console.WriteLine("Array after delete colum {0} : ", c - 1);
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < m; j++)
+                {
+                    Console.Write(Array[i][j] + " ");
+                }
+                Console.WriteLine();
+            }
+        }
+        public static void DoiCho2Hang(int[][] Array)
+        {
+            int[] ArrayTemp = new int[m];
 
+            Console.WriteLine("Input two row you want swap");
+            int r1 = int.Parse(Console.ReadLine());
+            int r2 = int.Parse(Console.ReadLine());
+            for (int i = 0; i < m; i++)
+            {
+                ArrayTemp[i] = Array[r1][i];
+                Array[r1][i] = Array[r2][i];
+                Array[r2][i] = ArrayTemp[i];
+            }
+            Console.WriteLine("Array after swap : ");
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < m; j++)
+                {
+                    Console.Write(Array[i][j] + " ");
+                }
+                Console.WriteLine();
+            }
         }
 
     }

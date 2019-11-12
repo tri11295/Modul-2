@@ -1,0 +1,35 @@
+C:\CodeGym\Practices\API\API\DAL.Interface\bin\Debug\netstandard2.0\DAL.Interface.deps.json
+C:\CodeGym\Practices\API\API\DAL.Interface\bin\Debug\netstandard2.0\DAL.Interface.dll
+C:\CodeGym\Practices\API\API\DAL.Interface\bin\Debug\netstandard2.0\DAL.Interface.pdb
+C:\CodeGym\Practices\API\API\DAL.Interface\bin\Debug\netstandard2.0\Domain.dll
+C:\CodeGym\Practices\API\API\DAL.Interface\bin\Debug\netstandard2.0\Domain.pdb
+C:\CodeGym\Practices\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.csprojAssemblyReference.cache
+C:\CodeGym\Practices\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.AssemblyInfoInputs.cache
+C:\CodeGym\Practices\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.AssemblyInfo.cs
+C:\CodeGym\Practices\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.csproj.CopyComplete
+C:\CodeGym\Practices\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.dll
+C:\CodeGym\Practices\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.pdb
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\DAL.Interface\bin\Debug\netstandard2.0\DAL.Interface.deps.json
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\DAL.Interface\bin\Debug\netstandard2.0\DAL.Interface.dll
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\DAL.Interface\bin\Debug\netstandard2.0\DAL.Interface.pdb
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\DAL.Interface\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\DAL.Interface\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.AssemblyInfo.cs
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.csproj.CopyComplete
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.dll
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\DAL.Interface\bin\Debug\netstandard2.0\DAL.Interface.deps.json
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\DAL.Interface\bin\Debug\netstandard2.0\DAL.Interface.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\DAL.Interface\bin\Debug\netstandard2.0\DAL.Interface.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\DAL.Interface\bin\Debug\netstandard2.0\Domain.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\DAL.Interface\bin\Debug\netstandard2.0\Domain.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.csprojAssemblyReference.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.csproj.CoreCompileInputs.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.AssemblyInfoInputs.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.AssemblyInfo.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.csproj.CopyComplete
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\DAL.Interface\obj\Debug\netstandard2.0\DAL.Interface.pdb

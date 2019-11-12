@@ -1,0 +1,9 @@
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\Domain\bin\Debug\netstandard2.0\Domain.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\Domain\bin\Debug\netstandard2.0\Domain.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\Domain\obj\Debug\netstandard2.0\Domain.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\Domain\obj\Debug\netstandard2.0\Domain.pdb

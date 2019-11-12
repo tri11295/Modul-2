@@ -1,0 +1,55 @@
+﻿@model IEnumerable<QLPhongBan.Models.PhongBan.PhongBanView>
+
+@{
+    ViewData["Title"] = "Phong Ban";
+}
+
+<h2>Phong Ban</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaPB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenPB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SoLuongNV)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaPB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenPB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuongNV)
+            </td>
+            <td>
+                
+                @Html.ActionLink("Edit", "Edit", new {  id=item.ID  }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.ID  }) |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.ID  })   |   
+                @Html.ActionLink("NhanVien", "NhanVien","NhanVien", new {  id=item.ID  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

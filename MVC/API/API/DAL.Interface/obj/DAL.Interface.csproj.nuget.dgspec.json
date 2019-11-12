@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\codegym\\modul 2\\baitap\\Modul-2\\MVC\\API\\API\\DAL.Interface\\DAL.Interface.csproj": {}
+  },
+  "projects": {
+    "D:\\codegym\\modul 2\\baitap\\Modul-2\\MVC\\API\\API\\DAL.Interface\\DAL.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\codegym\\modul 2\\baitap\\Modul-2\\MVC\\API\\API\\DAL.Interface\\DAL.Interface.csproj",
+        "projectName": "DAL.Interface",
+        "projectPath": "D:\\codegym\\modul 2\\baitap\\Modul-2\\MVC\\API\\API\\DAL.Interface\\DAL.Interface.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\codegym\\modul 2\\baitap\\Modul-2\\MVC\\API\\API\\DAL.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\codegym\\modul 2\\baitap\\Modul-2\\MVC\\API\\API\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\codegym\\modul 2\\baitap\\Modul-2\\MVC\\API\\API\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\codegym\\modul 2\\baitap\\Modul-2\\MVC\\API\\API\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\codegym\\modul 2\\baitap\\Modul-2\\MVC\\API\\API\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\codegym\\modul 2\\baitap\\Modul-2\\MVC\\API\\API\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\codegym\\modul 2\\baitap\\Modul-2\\MVC\\API\\API\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

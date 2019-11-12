@@ -1,0 +1,72 @@
+C:\Users\User\source\repos\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.deps.json
+C:\Users\User\source\repos\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.runtimeconfig.json
+C:\Users\User\source\repos\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.runtimeconfig.dev.json
+C:\Users\User\source\repos\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.dll
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.csprojAssemblyReference.cache
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.AssemblyInfo.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.TagHelpers.input.cache
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.TagHelpers.output.cache
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.RazorCoreGenerate.cache
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.pdb
+C:\Users\User\source\repos\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.Views.dll
+C:\Users\User\source\repos\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.Views.pdb
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.Views.pdb
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.dll
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.pdb
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.csproj.CopyComplete
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\GroupMeeting\Index.g.cshtml.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\GroupMeeting\AddGroupMeeting.g.cshtml.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\GroupMeeting\EditMeeting.g.cshtml.cs
+C:\Users\User\source\repos\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\GroupMeeting\DeleteMeeting.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.deps.json
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.runtimeconfig.json
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.runtimeconfig.dev.json
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.Views.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\bin\Debug\netcoreapp2.1\VdDapper.Views.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.csprojAssemblyReference.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.csproj.CoreCompileInputs.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.RazorAssemblyInfo.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.RazorAssemblyInfo.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.AssemblyInfoInputs.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.AssemblyInfo.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.TagHelpers.input.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.TagHelpers.output.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.RazorCoreGenerate.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\GroupMeeting\AddGroupMeeting.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\GroupMeeting\DeleteMeeting.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\GroupMeeting\EditMeeting.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\GroupMeeting\Index.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.RazorTargetAssemblyInfo.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.RazorTargetAssemblyInfo.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.Views.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\VdDapper\VdDapper\obj\Debug\netcoreapp2.1\VdDapper.csproj.CopyComplete

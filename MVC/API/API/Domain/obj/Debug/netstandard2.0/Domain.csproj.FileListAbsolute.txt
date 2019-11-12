@@ -1,0 +1,17 @@
+C:\CodeGym\Practices\API\API\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\CodeGym\Practices\API\API\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\CodeGym\Practices\API\API\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\CodeGym\Practices\API\API\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\CodeGym\Practices\API\API\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\CodeGym\Practices\API\API\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\CodeGym\Practices\API\API\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\CodeGym\Practices\API\API\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\Domain\obj\Debug\netstandard2.0\Domain.pdb

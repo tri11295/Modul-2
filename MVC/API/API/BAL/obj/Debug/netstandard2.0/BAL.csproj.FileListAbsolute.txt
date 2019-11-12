@@ -1,0 +1,47 @@
+C:\CodeGym\Practices\API\API\BAL\bin\Debug\netstandard2.0\BAL.deps.json
+C:\CodeGym\Practices\API\API\BAL\bin\Debug\netstandard2.0\BAL.dll
+C:\CodeGym\Practices\API\API\BAL\bin\Debug\netstandard2.0\BAL.pdb
+C:\CodeGym\Practices\API\API\BAL\bin\Debug\netstandard2.0\BAL.Interface.dll
+C:\CodeGym\Practices\API\API\BAL\bin\Debug\netstandard2.0\DAL.Interface.dll
+C:\CodeGym\Practices\API\API\BAL\bin\Debug\netstandard2.0\Domain.dll
+C:\CodeGym\Practices\API\API\BAL\bin\Debug\netstandard2.0\BAL.Interface.pdb
+C:\CodeGym\Practices\API\API\BAL\bin\Debug\netstandard2.0\DAL.Interface.pdb
+C:\CodeGym\Practices\API\API\BAL\bin\Debug\netstandard2.0\Domain.pdb
+C:\CodeGym\Practices\API\API\BAL\obj\Debug\netstandard2.0\BAL.csprojAssemblyReference.cache
+C:\CodeGym\Practices\API\API\BAL\obj\Debug\netstandard2.0\BAL.AssemblyInfoInputs.cache
+C:\CodeGym\Practices\API\API\BAL\obj\Debug\netstandard2.0\BAL.AssemblyInfo.cs
+C:\CodeGym\Practices\API\API\BAL\obj\Debug\netstandard2.0\BAL.csproj.CopyComplete
+C:\CodeGym\Practices\API\API\BAL\obj\Debug\netstandard2.0\BAL.dll
+C:\CodeGym\Practices\API\API\BAL\obj\Debug\netstandard2.0\BAL.pdb
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\bin\Debug\netstandard2.0\BAL.deps.json
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\bin\Debug\netstandard2.0\BAL.dll
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\bin\Debug\netstandard2.0\BAL.pdb
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\bin\Debug\netstandard2.0\BAL.Interface.dll
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\bin\Debug\netstandard2.0\DAL.Interface.dll
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\bin\Debug\netstandard2.0\BAL.Interface.pdb
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\bin\Debug\netstandard2.0\DAL.Interface.pdb
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\obj\Debug\netstandard2.0\BAL.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\obj\Debug\netstandard2.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\obj\Debug\netstandard2.0\BAL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\obj\Debug\netstandard2.0\BAL.AssemblyInfo.cs
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\obj\Debug\netstandard2.0\BAL.csproj.CopyComplete
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\obj\Debug\netstandard2.0\BAL.dll
+C:\Users\User\Downloads\Compressed\project1-master_2\project1-master\API\API\BAL\obj\Debug\netstandard2.0\BAL.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\bin\Debug\netstandard2.0\BAL.deps.json
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\bin\Debug\netstandard2.0\BAL.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\bin\Debug\netstandard2.0\BAL.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\bin\Debug\netstandard2.0\BAL.Interface.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\bin\Debug\netstandard2.0\DAL.Interface.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\bin\Debug\netstandard2.0\Domain.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\bin\Debug\netstandard2.0\BAL.Interface.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\bin\Debug\netstandard2.0\DAL.Interface.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\bin\Debug\netstandard2.0\Domain.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\obj\Debug\netstandard2.0\BAL.csprojAssemblyReference.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\obj\Debug\netstandard2.0\BAL.csproj.CoreCompileInputs.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\obj\Debug\netstandard2.0\BAL.AssemblyInfoInputs.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\obj\Debug\netstandard2.0\BAL.AssemblyInfo.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\obj\Debug\netstandard2.0\BAL.csproj.CopyComplete
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\obj\Debug\netstandard2.0\BAL.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API\API\BAL\obj\Debug\netstandard2.0\BAL.pdb

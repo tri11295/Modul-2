@@ -1,0 +1,50 @@
+﻿@model IEnumerable<DAPPER_QLTV.Models.TaiKhoan.TaiKhoanView>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Danh Sách Tài Khoản</h1>
+
+<p>
+    <a asp-controller="Taikhoan" asp-action="TaiKhoanMoi">Cập Nhật Tài Khoản Mới</a>
+    
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenDangNhap)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IDSinhVien)
+            </th>           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenDangNhap)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IDSinhVien)
+            </td>           
+            <td>
+                
+                @Html.ActionLink("Chi Tiết Tài Khoản", "Details", "TaiKhoan", new { id = item.ID }) |
+                @Html.ActionLink("Xóa Tài Khoản", "Delete", "TaiKhoan", new { id = item.ID }) |
+                @Html.ActionLink("Xem Sách Mượn", "XemSachMuonTheoIDTK", "TaiKhoan", new { id = item.ID })
+                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

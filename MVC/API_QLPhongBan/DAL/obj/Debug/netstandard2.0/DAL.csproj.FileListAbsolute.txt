@@ -1,0 +1,14 @@
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\bin\Debug\netstandard2.0\DAL.Interface.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\bin\Debug\netstandard2.0\Domain.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\bin\Debug\netstandard2.0\DAL.Interface.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\bin\Debug\netstandard2.0\Domain.pdb
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\codegym\modul 2\baitap\Modul-2\MVC\API_QLPhongBan\DAL\obj\Debug\netstandard2.0\DAL.pdb

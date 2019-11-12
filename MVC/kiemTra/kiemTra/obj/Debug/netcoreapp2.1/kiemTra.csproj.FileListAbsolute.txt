@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\kiemTra\kiemTra\bin\Debug\netcoreapp2.1\kiemTra.deps.json
+C:\Users\User\source\repos\kiemTra\kiemTra\bin\Debug\netcoreapp2.1\kiemTra.runtimeconfig.json
+C:\Users\User\source\repos\kiemTra\kiemTra\bin\Debug\netcoreapp2.1\kiemTra.runtimeconfig.dev.json
+C:\Users\User\source\repos\kiemTra\kiemTra\bin\Debug\netcoreapp2.1\kiemTra.dll
+C:\Users\User\source\repos\kiemTra\kiemTra\bin\Debug\netcoreapp2.1\kiemTra.pdb
+C:\Users\User\source\repos\kiemTra\kiemTra\obj\Debug\netcoreapp2.1\kiemTra.csprojAssemblyReference.cache
+C:\Users\User\source\repos\kiemTra\kiemTra\obj\Debug\netcoreapp2.1\kiemTra.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kiemTra\kiemTra\obj\Debug\netcoreapp2.1\kiemTra.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\kiemTra\kiemTra\obj\Debug\netcoreapp2.1\kiemTra.AssemblyInfo.cs
+C:\Users\User\source\repos\kiemTra\kiemTra\obj\Debug\netcoreapp2.1\kiemTra.dll
+C:\Users\User\source\repos\kiemTra\kiemTra\obj\Debug\netcoreapp2.1\kiemTra.pdb
