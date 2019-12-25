@@ -1,0 +1,147 @@
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignColors.dll
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\App.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.cache
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.lref
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\App.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.g.resources
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CoreCompileInputs.cache
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.dll
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.xml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UnitWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UnitWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\SuplierWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\SuplierWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\CustomerWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\CustomerWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\ObjectWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\ObjectWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\InputWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\InputWindow.baml
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\OutputWindow.g.cs
+D:\Work server\Team\Video hướng dẫn\WPF - Material Design - MVVM - Quản lý kho\Project\QuanLyKho\QuanLyKho\obj\Debug\OutputWindow.baml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignColors.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\System.Windows.Interactivity.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojAssemblyReference.cache
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\CustomerWindow.g.cs
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\InputWindow.g.cs
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.g.cs
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.g.cs
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\ObjectWindow.g.cs
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\OutputWindow.g.cs
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\SuplierWindow.g.cs
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\UnitWindow.g.cs
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.g.cs
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.g.cs
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\App.g.cs
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.cache
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_MarkupCompile.lref
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\App.baml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\CustomerWindow.baml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\InputWindow.baml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\LoginWindow.baml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\MainWindow.baml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\ObjectWindow.baml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\OutputWindow.baml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\ResourceXAML\MainResource.baml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\SuplierWindow.baml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\UnitWindow.baml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\UserControlKteam\ControlBarUC.baml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\UserWindow.baml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.g.resources
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.cache
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.CopyComplete
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho_Content.g.cs
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.SString.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Newtonsoft.Json.dll
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.Types.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\QuanLyKho-CRUD\QuanLyKho\QuanLyKho\bin\Debug\Newtonsoft.Json.xml
